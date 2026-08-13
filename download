@@ -1,0 +1,19 @@
+# Supplied/private dataset
+data/*.csv
+*.zip
+
+# Generated outputs
+outputs/*.csv
+outputs/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
